@@ -5,7 +5,6 @@
  */
 int main(void) 
 {
-	Char *S="\" Programming is like building a multilingual puzzle";
-	puts(s);
+	puts("\" Programming is like building a multilingual puzzle");
 	return o;
 }
