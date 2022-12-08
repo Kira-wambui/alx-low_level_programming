@@ -1,10 +1,11 @@
 #include <studio.h>
-/**
- * main - main block
- * Return: 0
+
+/*
+ * Printing a string using puts functions
  */
-int main(void)
+int main(void) 
 {
-	puts("\" Programming is like building a multilingual puzzle");
-	return (0);
+	Char *S="\" Programming is like building a multilingual puzzle";
+	puts(s);
+	return o;
 }
